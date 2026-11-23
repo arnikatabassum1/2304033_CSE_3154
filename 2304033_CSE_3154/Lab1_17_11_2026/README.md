@@ -1,0 +1,3 @@
+Lab1
+Topic: Introduction to Web Technologies
+Date: 17 November 2026
